@@ -1,0 +1,71 @@
+.contact-form{
+    position: relative;
+    background: #fff;
+    color: #979797;
+    font-family: Public Sans;
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 38px;
+    width: 552px;
+    height: 269px;
+    flex-shrink: 0;
+    gap: 10px;
+    text-align: center;
+    align-items: center;
+    padding: 0.5%;
+    transform: translate(-42);
+    top: 35%;
+    left:5.5%;
+}
+
+.form-dropdown{
+    background: #fff;
+    color: #979797;
+    font-family: Public Sans;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    flex-shrink: 0;
+    text-align: center;
+    align-items: center;
+}
+
+.container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 55%;
+    height: 85%;
+    flex-shrink: 0;
+    transform: translate(-700%);
+    bottom:13%;
+}
+
+.overlay-text{
+    position: absolute;
+    top:42%;
+    left: 50%;
+    transform: translate(-50% -50%);
+    font-size: 20%;
+    color:#fff;
+    font-family: Public Sans;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 300;
+    letter-spacing: -1px;
+    padding: 10px;
+}
+
+.form-image{
+    max-width: 50%;
+    height: auto;
+}
+
+.Request{
+color: #9597A5;
+line-height: 20px;
+size: 32px;
+}
+
